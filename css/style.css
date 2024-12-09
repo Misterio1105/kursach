@@ -2674,7 +2674,7 @@ body {
     font-size: 18px;
   }
   .completed-projects {
-    height: 90vh;
+    height: 100vh;
     padding-top: 40px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -2745,7 +2745,7 @@ body {
     height: 28px;
   }
   .online-control .video-container {
-    width: 107vw;
+    width: 98vw;
     height: 35vw;
   }
   .online-control .video-container .video-remont {
@@ -2813,6 +2813,7 @@ body {
     display: none;
   }
   .repair-section {
+    margin-top: 160px;
     height: 130vh;
     margin-left: 45px;
   }
@@ -2881,7 +2882,7 @@ body {
     display: none;
   }
   .contact-section {
-    height: 130vh;
+    height: 150vh;
     background-color: rgb(13, 13, 13);
     background-image: none;
   }
